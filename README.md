@@ -8,7 +8,7 @@ You can use it to take screenshots for testing or monitoring service
 Via Composer
 
 ``` bash
-$ composer require microweber/screen
+$ composer require sgnrslv/screen
 ```
 
 If on any unix system, you need to make the `bin` executable `chmod +x /path/to/screen/bin/phantomjs`
